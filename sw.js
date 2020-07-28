@@ -6,7 +6,7 @@ self.addEventListener('install', function(e) {
        '/index.html',
        '/404.html',
        '/img/tyler_costello_y7.png',
-       '/img/agpl-v3-logo.svg',
+       '/img/flag_of_europe.svg',
        '/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js',
        '/LICENCE.txt'
      ]);
