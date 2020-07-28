@@ -1,0 +1,24 @@
+{
+  "short_name": "Vote TC",
+  "name": "Vote Tyler Costello",
+  "description": "The official Vote Tyler Costello campaign website.",
+  "icons": [
+    {
+      "src": "/favicon/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "#76afdf",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/"
+}

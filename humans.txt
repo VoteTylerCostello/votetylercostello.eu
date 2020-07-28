@@ -1,0 +1,21 @@
+/* TEAM */                         
+Developer: Caleb Evans                                                      
+Twitter: @caleb39411                           
+Location: York, UK
+
+Origial creator: Thomas Johnson
+Twitter: @AirCooledThomas
+Location: York, UK
+
+				
+/* THANKS */
+Comic Relief: Jeff Davis
+Email: info@loudifier.com
+Site: loudifier.com
+
+
+/* SITE */
+Last update: 2020/07/28
+Standards: HTML5, CSS3, JS
+Components: PWA,
+Software: Geany, GitHub
