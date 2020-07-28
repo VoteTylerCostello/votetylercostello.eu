@@ -4,10 +4,11 @@ self.addEventListener('install', function(e) {
      return cache.addAll([
        '/',
        '/index.html',
-       '/images/tyler_costello_y7.png',
-       '/images/agpl-v3-logo.svg',
+       '/404.html',
+       '/img/tyler_costello_y7.png',
+       '/img/agpl-v3-logo.svg',
        '/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js',
-       'LICENCE.txt'
+       '/LICENCE.txt'
      ]);
    })
  );
