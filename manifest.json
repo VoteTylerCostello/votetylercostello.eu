@@ -22,6 +22,12 @@
       "purpose": "any maskable"
     },
     {
+      "src": "/favicon/favicon-92x92.png",
+      "type": "image/png",
+      "sizes": "92x92",
+      "purpose": "any maskable"
+    },
+    {
       "src": "/favicon/favicon-150x150.png",
       "type": "image/png",
       "sizes": "150x150",
