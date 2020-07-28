@@ -17,5 +17,4 @@ Site: loudifier.com
 /* SITE */
 Last update: 2020/07/28
 Standards: HTML5, CSS3, JS
-Components: Service Worker
 Software: Geany, GitHub
