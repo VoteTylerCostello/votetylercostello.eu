@@ -18,6 +18,7 @@
         <link rel="stylesheet" type="text/css" href="/css/main.css" />
         <link rel="author" type="text/plain" href="/humans.txt" />
         <title>Vote Tyler Costello</title>
+        <script type="application/ld+json" src="/s_data.jsonld"></script>
     </head>
     <body>
         <br />
@@ -62,7 +63,7 @@
         </footer>
         <script type="text/javascript">
             if ("serviceWorker" in navigator) {
-                navigator.serviceWorker.register("/sw.js").then(function(reg) {
+                navigator.serviceWorker.register("/js/pwa/sw.js", { scope: "/js/pwa" }).then(function(reg) {
                     console.log("Successfully registered. Scope is " + reg.scope);
                 }).catch(function(error) {
                     console.log("Registering failed " + error);

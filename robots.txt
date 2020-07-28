@@ -5,3 +5,4 @@ User-agent: *
 Allow: /img/
 Disallow: /favicon/
 Disallow: /css/
+Disallow: /404.html
