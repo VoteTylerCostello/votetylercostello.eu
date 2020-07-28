@@ -4,9 +4,51 @@
   "description": "The official Vote Tyler Costello campaign website.",
   "icons": [
     {
+      "src": "/favicon/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/favicon-70x70.png",
+      "type": "image/png",
+      "sizes": "70x70",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/favicon-150x150.png",
+      "type": "image/png",
+      "sizes": "150x150",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/favicon-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any maskable"
+    },
+    {
       "src": "/favicon/favicon-192x192.png",
       "type": "image/png",
       "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/favicon-310x150.png",
+      "type": "image/png",
+      "sizes": "310x150",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/favicon-310x310.png",
+      "type": "image/png",
+      "sizes": "310x310",
       "purpose": "any maskable"
     },
     {
