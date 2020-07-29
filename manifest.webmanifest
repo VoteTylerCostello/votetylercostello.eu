@@ -67,6 +67,6 @@
   "start_url": "/",
   "theme_color": "#76afdf",
   "background_color": "#ffffff",
-  "display": "standalone",
+  "display": "minimal-ui",
   "scope": "/"
 }
