@@ -3,6 +3,6 @@
 # Allow crawling of all content
 User-agent: *
 Allow: /img/
-Disallow: /favicon/
+Allow: /icon/
 Disallow: /css/
 Disallow: /404.html

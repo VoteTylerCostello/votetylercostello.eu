@@ -15,8 +15,8 @@ Site: loudifier.com
 
 
 /* SITE */
-Last update: 2020/08/22
+Last update: 2020/08/30
 Standards: HTML5, CSS3
-Software: Geany, Git
+Software: Git, Geany, Nano
 Host: GitHub Pages
 CDN: CloudFlare
