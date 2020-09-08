@@ -1,10 +1,7 @@
 # www.robotstxt.org/
 
 User-agent: *
-Disallow: /css/
 Disallow: /404.html
-Disallow: /CNAME
 Disallow: /humans.txt
-Disallow: /manifest.webmanifest
 Disallow: /original.html
 Disallow: /README.md
