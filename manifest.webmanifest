@@ -46,12 +46,6 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/icon/icon-310x150.png",
-      "type": "image/png",
-      "sizes": "310x150",
-      "purpose": "any maskable"
-    },
-    {
       "src": "/icon/icon-310x310.png",
       "type": "image/png",
       "sizes": "310x310",
