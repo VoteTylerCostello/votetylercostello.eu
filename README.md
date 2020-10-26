@@ -1,5 +1,5 @@
 # votetylercostello.eu
-[![License](/img/eupl_1.2.svg)](/LICENCE.txt)<br />
+[![License](/img/eupl_1.2_badge.svg)](/LICENCE.txt)<br />
 A Restoration of the Vote Tyler Costello Campaign Website<br />
 The original was taken down, due to lack of relevance, but has now been restored to its former glory (without the poll).<br />
 [www.votetylercostello.eu](https://www.votetylercostello.eu/)<br /><br />
