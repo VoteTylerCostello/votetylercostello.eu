@@ -18,8 +18,22 @@
   box-sizing: border-box;
 }
 
+:root {
+    --color-scheme-background: white;
+    --color-scheme-text-color: black;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-scheme-background: black;
+        --color-scheme-text-color: white;
+    }
+}
+
 body {
-  font-family: "Comic Relief", "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Relief", "Comic Sans MS", cursive, sans-serif;
+    background: var(--color-scheme-background);
+    color: var(--color-scheme-text-color);
 }
 
 h1 {
@@ -56,7 +70,7 @@ footer {
 }
 
 p.licence {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Arial, Helvetica, Roboto, sans-serif;
   font-size: 0.65em;
 }
 

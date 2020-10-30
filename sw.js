@@ -7,7 +7,6 @@ self.addEventListener('install', function(e) {
        '/404.html',
        '/original.html',
        '/img/tyler_costello_y7.png',
-       '/img/flag_of_europe.svg',
        '/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js',
        '/LICENCE.txt'
      ]);
