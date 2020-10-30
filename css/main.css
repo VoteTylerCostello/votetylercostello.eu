@@ -92,3 +92,7 @@ p.licence {
   0% { transform: translate(100%, 0); }
   100% { transform: translate(-100%, 0); }
 }
+
+@media (prefers-reduced-motion) {
+  @keyframes marquee {}
+}
