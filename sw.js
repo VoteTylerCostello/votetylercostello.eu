@@ -4,6 +4,7 @@ self.addEventListener('install', function(e) {
      return cache.addAll([
        '/',
        '/index.html',
+       '/es.html',
        '/404.html',
        '/original.html',
        '/img/tyler_costello_y7.png',
