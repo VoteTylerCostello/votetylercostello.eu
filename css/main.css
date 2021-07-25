@@ -39,7 +39,6 @@ body {
 h1 {
   text-align: center;
   font-size: 3em;
-  color: red;
   text-decoration: underline;
   font-style: italic;
   text-transform: uppercase;
@@ -81,7 +80,10 @@ p.licence {
   overflow: hidden;
   padding: 0;
   display: block;
+  line-height: 2;
+  color: red;
 }
+
 .marquee span {
   display: block;
   text-indent: 0;
