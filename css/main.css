@@ -42,6 +42,7 @@ h1 {
   color: red;
   text-decoration: underline;
   font-style: italic;
+  text-transform: uppercase;
 }
 
 h2 {
