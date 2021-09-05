@@ -1,13 +1,13 @@
 {
   "@context": "http://schema.org",
   "@type": "Webpage",
-  "url": "https://www.votetylercostello.tk",
+  "url": "https://www.votetylercostello.eu",
   "name": "Vote Tyler Costello",
   "headline": "Vote Tyler Costello",
   "description": "The official Vote Tyler Costello Campaign website, restored to its former glory!",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.votetylercostello.tk"
+    "@id": "https://www.votetylercostello.eu"
   },
   "image": {
     "@type": "ImageObject",
