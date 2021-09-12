@@ -3,5 +3,4 @@
 User-agent: *
 Disallow: /404.html
 Disallow: /humans.txt
-Disallow: /original.html
 Disallow: /README.md
