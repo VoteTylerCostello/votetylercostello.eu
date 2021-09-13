@@ -46,10 +46,6 @@ a {
   color: var(--color-scheme-link-color);
 }
 
-a.licence {
-  color:currentColor;
-}
-
 h1 {
   text-align: center;
   font-size: 3em;
@@ -94,6 +90,10 @@ footer {
 p.licence {
   font-family: Arial, Helvetica, Roboto, sans-serif;
   font-size: 0.65em;
+}
+
+.licence a {
+  color: currentColor;
 }
 
 .marquee {
