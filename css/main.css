@@ -92,10 +92,6 @@ p.licence {
   font-size: 0.65em;
 }
 
-.licence a {
-  color: currentColor;
-}
-
 .marquee {
   margin: 0 auto;
   white-space: nowrap;
